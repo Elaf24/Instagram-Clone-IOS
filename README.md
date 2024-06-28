@@ -150,11 +150,6 @@ https://github.com/Elaf24/Instagram-Clone-IOS.git
 
 
 
-## Credit :pray:
-  ```sh
-https://www.stephancodes.com/
-  ```
 
-<!-- CONTRIBUTING -->
 
 
