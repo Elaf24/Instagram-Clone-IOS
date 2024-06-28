@@ -141,7 +141,10 @@ https://github.com/Elaf24/Instagram-Clone-IOS.git
 ## Result :film_projector:
 <p align="right">(<a id="result" href="#readme-top">back to top</a>)</p>
 
-![final (1)](https://github.com/Elaf24/Vehicle-Detection-Speed-Estimation/assets/110555263/b1bf6474-1466-4f02-afa2-26aaa9d7d24e)
+![GitHub_Register](https://github.com/Elaf24/Instagram-Clone-IOS/assets/110555263/cdf8d169-6af8-4cf1-9886-c51a459966e8)
+![GitHub_Post](https://github.com/Elaf24/Instagram-Clone-IOS/assets/110555263/a0c10060-ca8f-497b-9d95-d2a487c663f3)
+
+
 
 
 
