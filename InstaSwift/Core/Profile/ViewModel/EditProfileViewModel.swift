@@ -1,9 +1,4 @@
-//
-//  EditProfileViewModel.swift
-//  InstaSwift
-//
-//  Created by Bruno Rangel on 06/06/23.
-//
+
 
 import Firebase
 import PhotosUI

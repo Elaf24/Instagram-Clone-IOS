@@ -1,9 +1,4 @@
-//
-//  CreatePasswordView.swift
-//  InstaSwift
-//
-//  Created by Bruno Rangel on 03/06/23.
-//
+
 
 import SwiftUI
 

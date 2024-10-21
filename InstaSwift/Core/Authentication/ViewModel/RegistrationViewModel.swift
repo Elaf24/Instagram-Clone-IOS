@@ -1,9 +1,4 @@
-//
-//  RegistrationViewModel.swift
-//  InstaSwift
-//
-//  Created by Bruno Rangel on 04/06/23.
-//
+
 
 import Foundation
 

@@ -1,9 +1,4 @@
-//
-//  DateExtension.swift
-//  InstaSwift
-//
-//  Created by Bruno Rangel on 07/06/23.
-//
+
 
 import SwiftUI
 

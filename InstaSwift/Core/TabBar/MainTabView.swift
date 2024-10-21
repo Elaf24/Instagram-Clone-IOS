@@ -1,9 +1,3 @@
-//
-//  MainTabView.swift
-//  InstaSwift
-//
-//  Created by Bruno Rangel on 02/06/23.
-//
 
 import SwiftUI
 
